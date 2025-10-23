@@ -1,4 +1,7 @@
-<h1 align="center">👋 Olá, eu sou a Ana Carolyna Costa!</h1>
+<h1 align="center"><div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=33&duration=4961&pause=1000&color=6556FF&width=595&height=173&lines=+Ol%C3%A1%2C+eu+sou+a+Ana+Carolyna+Costa!" alt="Typing SVG" /></a>
+</div>
+</h1>
 
 
 <p align="center">
